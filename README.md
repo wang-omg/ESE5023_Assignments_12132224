@@ -19,3 +19,11 @@ Better use scatters.
 3.6 to 3.10 (-15p)
 4 
 Please give more data analyses.(-8p)
+
+## Comemnts on HW3 Lixc (49/50)
+1.1 
+try to use `.plot(col = "month"…)`  to do batch plot 
+1.3 
+Wrong plot region. (-1p)
+2.2 
+Either hist graph or line chart is ok.
