@@ -27,3 +27,11 @@ try to use `.plot(col = "month"…)`  to do batch plot
 Wrong plot region. (-1p)
 2.2 
 Either hist graph or line chart is ok.
+
+### Assginment 04 comments - Chenyy
+I shall give you 28/30.
+As for the Q1. Please do not use data.plot.scatter directly, try `plt.scatter` from `matplotlib` (-2).
+
+### Assginment 05 comments - Chenyy
+Great job! I shall give you (37/40).
+Your report is neat and organized. However, you seem to forget the `observation` part when drawing the graph (-3). Keep going!
